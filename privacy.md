@@ -1,7 +1,3 @@
-title: Privacy Policy
-permalink: /privacy/
---------------------
-
 # Privacy Policy
 
 **Effective date:** June 16, 2026
@@ -64,4 +60,3 @@ This Privacy Policy may be updated if PhotoPile’s features or data practices c
 If you have questions about this Privacy Policy, you can contact:
 
 **[support@photopile.com](mailto:support@photopile.com)**
-
